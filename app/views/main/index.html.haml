@@ -2,7 +2,7 @@
   .table-row
     .table-cell.sidebar
       %h1
-        = image_tag "logos/adopt-a-siren.png", :alt => t("titles.main", :thing => t("defaults.thing").titleize), :title => t("titles.main", :thing => t("defaults.thing").titleize)
+        = image_tag "logos/adopt-a-siren.png", :height => "150px", :alt => t("titles.main", :thing => t("defaults.thing").titleize), :title => t("titles.main", :thing => t("defaults.thing").titleize)
       %p.alert-message.block-message#tagline
         = t("defaults.tagline")
       #content
@@ -18,7 +18,7 @@
           %br
         #col2
           %a{:href => "http://maconga.gov/"}
-            = image_tag "logos/boston.png", :alt => "Macon", :title => "Macon"
+            = image_tag "logos/boston.png", :height => "80px", :alt => "Macon", :title => "Macon"
       #feedback
         %p
           %a{:href => URI.escape("mailto:adoptasiren@maconga.gov?subject=#{t("titles.main", :thing => t("defaults.thing").titleize)} #{t("links.feedback").titleize}")}
