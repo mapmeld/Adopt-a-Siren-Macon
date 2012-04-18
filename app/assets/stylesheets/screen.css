@@ -206,18 +206,18 @@ fieldset {
 
 .sidebar p#tagline {
   color: #ffffff;
-  background-color: #c43c35;
+  background-color: #FF8C00;
   background-repeat: repeat-x;
-  background-image: -khtml-gradient(linear, left top, left bottom, from(#ee5f5b), to(#c43c35));
-  background-image: -moz-linear-gradient(top, #ee5f5b, #c43c35);
-  background-image: -ms-linear-gradient(top, #ee5f5b, #c43c35);
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ee5f5b), color-stop(100%, #c43c35));
-  background-image: -webkit-linear-gradient(top, #ee5f5b, #c43c35);
-  background-image: -o-linear-gradient(top, #ee5f5b, #c43c35);
-  background-image: linear-gradient(top, #ee5f5b, #c43c35);
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#FF8C00), to(#FFA500));
+  background-image: -moz-linear-gradient(top, #FF8C00, #FFA500);
+  background-image: -ms-linear-gradient(top, #FF8C00, #FFA500);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FF8C00), color-stop(100%, #FFA500));
+  background-image: -webkit-linear-gradient(top, #FF8C00, #FFA500);
+  background-image: -o-linear-gradient(top, #FF8C00, #FFA500);
+  background-image: linear-gradient(top, #FF8C00, #FFA500);
   border-color: #c43c35 #c43c35 #882a25;
   border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ee5f5b', endColorstr='#c43c35', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF8C00', endColorstr='#FFA500', GradientType=0);
   padding: 10px 20px;
   text-align: center;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
